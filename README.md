@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bitray.tech/](https://www.bitray.tech/)
 
-- 💬 Ask me about **PHP, JavaScript, CSS, Hack, Laravel, NodeJs, HTML**
+- 💬 Ask me about **PHP, JavaScript, Hack, Laravel, NodeJs, HTML**
 
 - 📫 How to reach me **eddmichira@gmail.com**
 
