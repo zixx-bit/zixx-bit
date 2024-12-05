@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://www.bitray.tech/](https://www.bitray.tech/)
+- 👨‍💻 All of my projects are available at [Zixx](https://github.com/zixx-bit)
 
 - 💬 Ask me about **PHP, JavaScript, React, Laravel, NodeJs, Express, SocketIO**
 
