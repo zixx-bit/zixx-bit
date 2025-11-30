@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zixx-bit" alt="zixx-bit" /></a> </p>
 
-- 🔭 I’m currently working on [Axxis Systems](https://www.axxis-systems.com/)
+- 🔭 I’m currently working at [Axxis Systems](https://www.axxis-systems.com/)
 
 - 🌱 I’m currently learning ** Large Language Models**
 
