@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zixx-bit" alt="zixx-bit" /></a> </p>
 
-- 🔭 I’m currently working on [Nestable](https://bumihouse.site/)
+- 🔭 I’m currently working on [Axxis Systems](https://www.axxis-systems.com/)
 
-- 🌱 I’m currently learning ** Kotlin**
+- 🌱 I’m currently learning ** Large Language Models**
 
 - 👨‍💻 All of my projects are available at [Zixx](https://github.com/zixx-bit)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **eddmichira@gmail.com**
 
-- ⚡ Fun fact **I think I am interesting**
+- ⚡ Fun fact **If you are not building, you will be depressed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
